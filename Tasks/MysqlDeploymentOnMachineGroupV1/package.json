@@ -21,7 +21,7 @@
     "@types/node": "^10.17.0",
     "@types/q": "1.0.7",
     "azure-pipelines-task-lib": "^3.3.1",
-    "compress-commons": "1.1.0",
+    "compress-commons": "1.2.2",
     "crc32-stream": "1.0.0",
     "normalize-path": "2.0.1",
     "q": "1.4.1",
