@@ -31,7 +31,7 @@
     "azure-pipelines-tasks-packaging-common": "^2.198.1",
     "azure-pipelines-tasks-utility-common": "^3.198.1",
     "azure-pipelines-tool-lib": "^1.0.1",
-    "semver": "6.3.0",
+    "semver": "7.5.2",
     "typed-rest-client": "^1.8.9"
   },
   "devDependencies": {
