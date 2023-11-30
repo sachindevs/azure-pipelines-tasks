@@ -11,7 +11,7 @@
     "azure-pipelines-tasks-kubernetes-common": "^2.212.0",
     "azure-pipelines-tasks-utility-common": "^3.210.0",
     "azure-pipelines-tool-lib": "1.0.0-preview.0",
-    "del": "2.2.0",
+    "del": "6.0.0",
     "js-yaml": "3.13.1",
     "moment": "^2.29.4",
     "typed-rest-client": "^1.8.9"
