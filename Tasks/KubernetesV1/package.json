@@ -12,7 +12,7 @@
     "azure-pipelines-tasks-kubernetes-common": "^2.212.0",
     "azure-pipelines-tasks-utility-common": "^3.210.0",
     "azure-pipelines-tool-lib": "^2.0.0-preview",
-    "del": "2.2.0",
+    "del": "6.0.0",
     "moment": "^2.29.4"
   },
   "devDependencies": {
