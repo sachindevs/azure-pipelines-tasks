@@ -27,7 +27,7 @@
     "q": "1.4.1",
     "tar-stream": "1.5.2",
     "winreg": "1.2.2",
-    "zip-stream": "1.1.0",
+    "zip-stream": "6.0.0",
     "azure-pipelines-tasks-webdeployment-common": "4.210.0"
   },
   "devDependencies": {
