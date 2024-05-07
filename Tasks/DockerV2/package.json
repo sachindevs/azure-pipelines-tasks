@@ -2,7 +2,7 @@
   "dependencies": {
     "@types/mocha": "^5.2.7",
     "@types/node": "^10.17.0",
-    "@types/q": "^1.5.0",
+    "@types/q": "^1.5.8",
     "@types/uuid": "^8.3.0",
     "azure-pipelines-task-lib": "^4.0.1-preview",
     "azure-pipelines-tasks-docker-common-v2": "2.211.0",
