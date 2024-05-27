@@ -31,7 +31,7 @@
     "semver": "5.4.1",
     "tar-stream": "1.5.2",
     "winreg": "1.2.2",
-    "zip-stream": "1.1.0"
+    "zip-stream": "6.0.0"
   },
   "devDependencies": {
     "typescript": "4.0.2"
