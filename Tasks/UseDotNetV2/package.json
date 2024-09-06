@@ -27,12 +27,12 @@
     "@types/mocha": "^5.2.6",
     "@types/node": "^10.17.0",
     "@types/semver": "6.0.0",
-    "azure-pipelines-task-lib": "^3.0.0-preview",
-    "azure-pipelines-tasks-packaging-common": "^2.198.1",
-    "azure-pipelines-tasks-utility-common": "^3.198.1",
-    "azure-pipelines-tool-lib": "^1.0.1",
+    "azure-pipelines-task-lib": "^4.16.0",
+    "azure-pipelines-tasks-packaging-common": "^3.241.0",
+    "azure-pipelines-tasks-utility-common": "^3.238.0",
+    "azure-pipelines-tool-lib": "^2.0.2",
     "semver": "6.3.0",
-    "typed-rest-client": "^1.8.9"
+    "typed-rest-client": "^2.0.0"
   },
   "devDependencies": {
     "typescript": "4.0.2"
