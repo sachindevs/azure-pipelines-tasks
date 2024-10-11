@@ -9,7 +9,7 @@
     "azure-pipelines-tasks-kubernetes-common": "^2.212.0",
     "azure-pipelines-tasks-securefiles-common": "^2.207.0",
     "azure-pipelines-tasks-utility-common": "^3.210.0",
-    "del": "2.2.0",
+    "del": "8.0.0",
     "moment": "^2.29.4"
   },
   "devDependencies": {
