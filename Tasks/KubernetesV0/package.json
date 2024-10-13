@@ -10,7 +10,7 @@
     "azure-pipelines-tasks-docker-common-v2": "^2.211.0",
     "azure-pipelines-tasks-kubernetes-common": "^2.212.0",
     "azure-pipelines-tasks-utility-common": "3.212.0",
-    "del": "2.2.0",
+    "del": "8.0.0",
     "js-yaml": "3.13.1"
   },
   "devDependencies": {
