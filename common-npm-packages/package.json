@@ -20,6 +20,6 @@
   "homepage": "https://github.com/microsoft/azure-pipelines-tasks-common#readme",
   "dependencies": {
     "minimist": "^1.2.6",
-    "mocha": "^5.2.0"
+    "mocha": "^11.0.1"
   }
 }
