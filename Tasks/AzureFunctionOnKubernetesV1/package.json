@@ -24,6 +24,6 @@
     "azure-pipelines-tasks-kubernetes-common": "^2.212.0",
     "azure-pipelines-tasks-azure-arm-rest-v2": "^3.217.3",
     "azure-pipelines-tool-lib": "^2.0.0-preview",
-    "js-yaml": "3.13.1"
+    "js-yaml": "4.1.1"
   }
 }
