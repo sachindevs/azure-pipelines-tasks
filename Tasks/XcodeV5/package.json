@@ -23,7 +23,7 @@
     "azure-pipelines-task-lib": "^4.0.0-preview",
     "azure-pipelines-tool-lib": "^2.0.0-preview",
     "azure-pipelines-tasks-ios-signing-common": "2.0.4",
-    "azure-pipelines-tasks-utility-common": "^3.0.3"
+    "azure-pipelines-tasks-utility-common": "^3.270.0"
   },
   "devDependencies": {
     "typescript": "4.0.2"
