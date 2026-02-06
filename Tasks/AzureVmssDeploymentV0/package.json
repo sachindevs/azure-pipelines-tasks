@@ -9,7 +9,7 @@
     "azp-tasks-az-blobstorage-provider": "^2.0.6",
     "azure-pipelines-task-lib": "^3.1.0",
     "azure-pipelines-tasks-azure-arm-rest-v2": "^3.217.1",
-    "azure-pipelines-tasks-utility-common": "^3.0.0-preview.0",
+    "azure-pipelines-tasks-utility-common": "^3.270.0",
     "moment": "^2.29.4"
   },
   "devDependencies": {
